@@ -9,3 +9,7 @@ function whisper(input){
 function logShout(input){
   console.log(shout(input))
 }
+
+function logWhisper(input){
+  console.log(whisper(input))
+}
