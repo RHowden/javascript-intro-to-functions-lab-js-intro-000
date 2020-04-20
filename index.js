@@ -13,3 +13,7 @@ function logShout(input){
 function logWhisper(input){
   console.log(whisper(input))
 }
+
+function sayHiToGrandma(input){
+  
+}
